@@ -1,1 +1,23 @@
+.landing-page {
+  background-image: url('background.jpg');
+  background-size: cover;
+  color: white;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.btn-get-started {
+  padding: 15px 30px;
+  background-color: green;
+  color: white;
+  text-decoration: none;
+  font-size: 1.5em;
+}
 
